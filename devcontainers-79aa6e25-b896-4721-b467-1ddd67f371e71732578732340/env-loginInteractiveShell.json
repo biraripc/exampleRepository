@@ -1,0 +1,12 @@
+{
+	"HOSTNAME": "5d71c20e0fea",
+	"REMOTE_CONTAINERS_IPC": "/tmp/vscode-remote-containers-ipc-5aa456f2-592a-42a9-91c8-cb59fe97cbc9.sock",
+	"HOME": "/root",
+	"LS_COLORS": "",
+	"LESSCLOSE": "/usr/bin/lesspipe %s %s",
+	"REMOTE_CONTAINERS_SOCKETS": "[]",
+	"LESSOPEN": "| /usr/bin/lesspipe %s",
+	"SHLVL": "1",
+	"PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+	"_": "/usr/bin/cat"
+}
